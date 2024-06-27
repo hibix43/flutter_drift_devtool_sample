@@ -1,0 +1,1 @@
+ /Users/hibix/workspace/flutter-drift-sample/.dart_tool/flutter_build/bb0506c038b1d76456bc09b1520e717e/native_assets.yaml: 
